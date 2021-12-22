@@ -7,8 +7,8 @@
 require("fbConfig.php");
 
 $config = array(
-    'appId' => '624830547552783',
-    'secret' => 'dc316428a4836477815b3498d8c4fe72',
+    'appId' => '***',
+    'secret' => '***',
     'fileUpload' => true
 );
 
